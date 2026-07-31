@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>John Drew | Sketchbook 003 | Punktoidea</title>
+
+    <meta name="description" content="Sketchbook 003 by John Drew at the Punktoidea Art Gallery.">
+
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <!-- ================= Header ================= -->
+
+    <header>
+
+        <h1>John Drew</h1>
+
+        <p>Sketchbook 003</p>
+
+        <nav>
+            <a href="john_drew.html">← Back to John Drew</a>
+        </nav>
+
+    </header>
+
+
+    <!-- ================= Main ================= -->
+
+    <main>
+
+        <section class="artist-page">
+
+            <h2>Sketchbook 003</h2>
+
+            <p>
+                A selection of pages from Sketchbook 003.
+            </p>
+
+            <div class="gallery">
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_cat.jpg"
+                         alt="Sketch Cat"
+                         loading="lazy">
+                    <figcaption>Cat</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_cat2.jpg"
+                         alt="Sketch Cat 2"
+                         loading="lazy">
+                    <figcaption>Cat 2</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_Fisherman.jpg"
+                         alt="Fisherman Sketch"
+                         loading="lazy">
+                    <figcaption>Fisherman</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_landscape.jpg"
+                         alt="Landscape Sketch"
+                         loading="lazy">
+                    <figcaption>Landscape</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_moon.jpg"
+                         alt="Moon Sketch"
+                         loading="lazy">
+                    <figcaption>Moon</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_Racoons.jpg"
+                         alt="Raccoons Sketch"
+                         loading="lazy">
+                    <figcaption>Raccoons</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_Sail.jpg"
+                         alt="Sail Sketch"
+                         loading="lazy">
+                    <figcaption>Sail</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_Squids.jpg"
+                         alt="Squids Sketch"
+                         loading="lazy">
+                    <figcaption>Squids</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_Squids2.jpg"
+                         alt="Squids Sketch 2"
+                         loading="lazy">
+                    <figcaption>Squids 2</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch4.jpg"
+                         alt="Sketch 4"
+                         loading="lazy">
+                    <figcaption>Sketch 4</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/John/Book003/jd_Sketch_king.jpg"
+                         alt="Untitled Sketch"
+                         loading="lazy">
+                    <figcaption>Untitled</figcaption>
+                </figure>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- ================= Footer ================= -->
+
+    <footer>
+
+        <p>&copy; 2026 Punktoidea</p>
+
+    </footer>
+
+</body>
+
+</html>
